@@ -1,0 +1,3 @@
+Oct 10 09:12:43 mymachine CRON[12345]: USER (good_user)
+Oct 10 09:13:01 mymachine CRON[12346]: USER (bad_user)
+Oct 10 09:13:21 mymachine CRON[12347]: USER (good_user)
